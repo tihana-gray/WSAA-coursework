@@ -91,4 +91,28 @@ for card in cards:
 
 print(values)
 print(suits)
-   
+
+value_counts = {}
+# This creates an emty dictionary called value_counts.
+# It is needed to know how many times each count appears.
+# 📚 References: https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+# https://stackoverflow.com/questions/17709270/create-column-of-value-counts-in-pandas-dataframe
+
+for value in values:
+# This loop iterates over each value in the values list.
+    if value in value_counts: # This line checks if the current card value exists.
+        value_counts[value] += 1 # Increases the count by 1.
+    else:
+        value_counts[value] = 1 # Creates new dictionary entry with a count of 1.
+# 📚 References: https://docs.python.org/3/reference/expressions.html#membership-test-operations
+# https://docs.python.org/3/tutorial/controlflow.html#for-statements
+# https://docs.python.org/3/reference/simple_stmts.html#augmented-assignment-statements
+# https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+
+counts = value_counts.values()
+# This line retrieves the counts of each card value from the value_counts dictionary.
+# 📚 Reference: https://docs.python.org/3/library/stdtypes.html#dict.values
+
+
+
+
