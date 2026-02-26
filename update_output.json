@@ -1,0 +1,53 @@
+{
+    "content": {
+        "name": "api_test.txt",
+        "path": "api_test.txt",
+        "sha": "10e2c12ed22dc9e5e07a48fffb3234cfe53bbb68",
+        "size": 44,
+        "url": "https://api.github.com/repos/tihana-gray/private_repo/contents/api_test.txt?ref=main",
+        "html_url": "https://github.com/tihana-gray/private_repo/blob/main/api_test.txt",
+        "git_url": "https://api.github.com/repos/tihana-gray/private_repo/git/blobs/10e2c12ed22dc9e5e07a48fffb3234cfe53bbb68",
+        "download_url": "https://raw.githubusercontent.com/tihana-gray/private_repo/main/api_test.txt?token=BKKBTV7CUUUMVJ6IFP4FV3DJUCAIQ",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/tihana-gray/private_repo/contents/api_test.txt?ref=main",
+            "git": "https://api.github.com/repos/tihana-gray/private_repo/git/blobs/10e2c12ed22dc9e5e07a48fffb3234cfe53bbb68",
+            "html": "https://github.com/tihana-gray/private_repo/blob/main/api_test.txt"
+        }
+    },
+    "commit": {
+        "sha": "5aeffb034893c44482dc805b14791ef09dcbda45",
+        "node_id": "C_kwDORZqritoAKDVhZWZmYjAzNDg5M2M0NDQ4MmRjODA1YjE0NzkxZWYwOWRjYmRhNDU",
+        "url": "https://api.github.com/repos/tihana-gray/private_repo/git/commits/5aeffb034893c44482dc805b14791ef09dcbda45",
+        "html_url": "https://github.com/tihana-gray/private_repo/commit/5aeffb034893c44482dc805b14791ef09dcbda45",
+        "author": {
+            "name": "Tihana Gray",
+            "email": "tihanagray64@gmail.com",
+            "date": "2026-02-26T17:18:04Z"
+        },
+        "committer": {
+            "name": "Tihana Gray",
+            "email": "tihanagray64@gmail.com",
+            "date": "2026-02-26T17:18:04Z"
+        },
+        "tree": {
+            "sha": "73164a9c4f319d22229658896695b7a3853f623e",
+            "url": "https://api.github.com/repos/tihana-gray/private_repo/git/trees/73164a9c4f319d22229658896695b7a3853f623e"
+        },
+        "message": "API update to api_test.txt",
+        "parents": [
+            {
+                "sha": "f9812fbb41391d23b801a9034d5d84bbc5971bd4",
+                "url": "https://api.github.com/repos/tihana-gray/private_repo/git/commits/f9812fbb41391d23b801a9034d5d84bbc5971bd4",
+                "html_url": "https://github.com/tihana-gray/private_repo/commit/f9812fbb41391d23b801a9034d5d84bbc5971bd4"
+            }
+        ],
+        "verification": {
+            "verified": false,
+            "reason": "unsigned",
+            "signature": null,
+            "payload": null,
+            "verified_at": null
+        }
+    }
+}
