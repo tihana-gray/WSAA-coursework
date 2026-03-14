@@ -1,0 +1,11 @@
+Andrew is a lecturer at Atlantic Technological University.
+
+Atlantic Technological University has its headquarters in Galway and offers a wide range of courses.
+
+Andrew teaches several computer science modules. Andrew is also the lecturer for the Web Services and Applications module.
+
+In his lectures, Andrew explains how APIs work and how students can use Python to interact with services such as GitHub.
+
+Andrew also demonstrates how automation can be used to modify files in repositories and commit those changes using scripts.
+
+Many students learn practical programming and automation skills thanks to Andrew's teaching.
